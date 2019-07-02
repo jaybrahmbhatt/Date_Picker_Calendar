@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_red">#FD5D5D</color>
+    <color name="blue_okta">#007DC1</color>
+    <color name="red_o365">#E73F24</color>
+    <color name="blue_onelogin">#00A9E0</color>
+    <color name="blue_google">#4286f4</color>
+    <color name="blue_very_light">#F5F9FF</color>
+    <color name="splitter_grey">#EFEFEF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <!--almost black-->
+    <color name="mine_shaft">#333333</color>
+    <color name="dark_grey">#404040</color>
+    <color name="light_grey">#EBEBEB</color>
+    <color name="very_light_grey">#F4F4F4</color>
+    <color name="grey_out_of_policy">#919191</color>
+    <color name="transparent_alabaster">#F9FAFAFA</color>
+    <color name="medium_grey">#CDCDCD</color>
+    <color name="silver_chalice">#A1A1A1</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="transparent_grey">#44000000</color>
+    <color name="thumb_trtack_orange">#FFB38D</color>
+    <color name="in_loyalty_club_color">#DD215FD3</color>
+    <color name="filter_drawer_splitter">#4E4E4E</color>
+    <color name="very_transparent_white">#BBFFFFFF</color>
+    <color name="transparent_black">#59000000</color>
+    <color name="united_airlines_blue">#003398</color>
+    <color name="brown">#995533</color>
+    <color name="transparent_red">#33FF0000</color>
+    <color name="pinklight">#FFF2F2</color>
+    <color name="bluehotelprogram">#4083FF</color>
+    <color name="yellowstar">#F8CD64</color>
+    <color name="lightyellow">#FFF8E4</color>
+    <color name="darkorange">#E39E29</color>
+    <color name="gradient">#07000000</color>
+
+    <!-- Using http://chir.ag/projects/name-that-color/ this tool to name the color. -->
+    <!-- Rebrand colors-->
+    <color name="cerulean">#00ABF2</color>
+    <color name="malibu">#67ebff</color>
+    <color name="lochmara">#0089bf</color>
+    <color name="pomegranate">#F04923</color>
+    <color name="coral">#ff7d50</color>
+    <color name="sushi">#87C540</color>
+    <color name="tree_poppy">#F68B1F</color>
+    <color name="iron">#E2E3E4</color>
+    <color name="alabaster">#F8F8F8</color>
+    <color name="oslo_gray">#939598</color>
+    <color name="alizarin_crimson">#E03131</color>
+    <color name="earls_green">#BED031</color>
+    <color name="silver">#c1c1c1</color>
+    <color name="alto">#d9d9d9</color>
+    <color name="gallery">#F0F0F0</color>
+    <color name="dove_grey">#666666</color>
+    <color name="cloud_burst">#24325B</color>
+    <color name="mercury">#E6E6E6</color>
+    <color name="white_alpha_40">#4DFFFFFF</color>
+    <color name="white_alpha_50">#80FFFFFF</color>
+    <color name="white_alpha_90">#9DFFFFFF</color>
+    <color name="silver_sand">#C8CACD</color>
+
+    <!-- Divvy color brand -->
+    <color name="shark">#1B1C23</color>
+    <color name="shark_alpha_50">#801B1C23</color>
+    <color name="manatee">#9092A0</color>
+    <color name="mischka">#DEDEE4</color>
+
+    <color name="persian_red">#C6362C</color>
+    <color name="cerulean_blue">#2355BE</color>
+    <color name="puerto_rico">#5AC39D</color>
+    <color name="reef_gold">#A8841E</color>
+</resources>

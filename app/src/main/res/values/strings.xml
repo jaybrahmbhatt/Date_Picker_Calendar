@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Calendar</string>
+    <string name="Calendar">Button</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="expiry_picker_start_date"> Select Expiry Start Date </string>
+    <string name="expiry_picker_end_date">Select Expiry End Date</string>
+    <string name="save">Select these dates</string>
+    <string name="toolbar_title">Select Dates</string>
+    <string name="expiry_picker_title">Expiry Picker Title</string>
+
+</resources>
