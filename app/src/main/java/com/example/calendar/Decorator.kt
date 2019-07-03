@@ -73,7 +73,7 @@ class CellDecorator(start:Date, end:Date, min:Date, max: Date, context: Context)
         return when{
             !cellView.isCurrentMonth->android.R.color.transparent
             cellView.isSelected->R.color.mine_shaft
-            (currentDay < minDay&& currentDayYear==minDayYear )||(currentDay > maxDay&& currentDayYear==maxDayYear)->R.color.silver
+            (currentDay < minDay&& currentDayYear==minDayYear )||(currentDay > maxDay&& currentDayYear==maxDayYear)->R.color.splitter_grey
             else->R.color.mine_shaft
 
         }
